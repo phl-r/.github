@@ -1,9 +1,9 @@
 # Mabuhay! 🇵🇭 👋🏾
 
 <div align="center">
-  <img src="https://githubusercontent.com" width="160" />
+  <img src="https://raw.githubusercontent.com/phl-r/.github/main/assets/phlogo.png" width="120" />
   <h1>Philippine R Registry</h1>
-  <p><b>The Central Infrastructure for Philippine R Software</b></p>
+  <p><i>The Central Infrastructure for Philippine R Software</i></p>
 </div>
 
 ---
@@ -16,7 +16,7 @@ The **PHL- R Registry** is a community-driven repository hosted on [R-Universe](
 ---
 
 ## 🏛️ Our Mission
-To empower the Filipino scientific community by providing a centralized, high-performance home for R software. We bridge the gap between researchers and developers to foster a culture of reproducible and accessible science in the Philippines.
+To empower the Filipino scientific community by providing a centralized, localized home for R software. We bridge the gap between researchers and developers to foster a culture of reproducible and accessible science in the Philippines.
 
 ## 🎯 Core Objectives
 *   **🇵🇭 Visibility:** Providing a dedicated stage for Filipino-led R packages to ensure local research reaches a global audience.
