@@ -15,7 +15,7 @@
 ### 🌊 Why a Philippine Registry?
 The Philippines is a unique archipelagic nation facing distinct challenges—from **typhoon modeling** and **maritime logistics** to **public health** and **local spatial analysis**. 
 
-The **PHL-R Registry** is a community-driven repository hosted on [R-Universe](https://r-universe.dev). Our mission is to consolidate, build, and distribute R packages developed by Filipino scientists and researchers, ensuring that local data is translated into actionable insights for the country.
+The **PHL- R Registry** is a community-driven repository hosted on [R-Universe](https://r-universe.dev). Our mission is to consolidate, build, and distribute R packages developed by Filipino scientists and researchers, ensuring that local data is translated into actionable insights for the country.
 
 ---
 
