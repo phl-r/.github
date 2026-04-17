@@ -1,11 +1,8 @@
-# Mabuhay! 👋🏾
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/phl-r/.github/main/assets/phflag.png" width="120" />
   <h1>PinasR</h1>
   <p><i>The Central Infrastructure for Philippine R Software</i></p>
 </div>
-
 ---
 
 ### 🌊 Why a Philippine Registry?
