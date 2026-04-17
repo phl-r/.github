@@ -37,6 +37,10 @@ options(repos = c(
 
 # Then install as usual, for example:
 install.packages("roroph")
+
+# OR alternative: One-liner using the universe helper
+install.packages("universe", repos = "https://ropensci.r-universe.dev")
+universe::add("phl-r")
 ```
 ## 🤝 Sali Na! (How to Contribute)
 
