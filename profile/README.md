@@ -1,17 +1,6 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/phl-r/.github/main/assets/phflag.png" width="120" />
-  <h1>PinasR</h1>
-  <p><i>The Central Infrastructure for Philippine R Software</i></p>
-</div>
+## Mabuhay! 🇵🇭 
 
----
-
-### 🌊 Why a Philippine Registry?
-The Philippines is a unique archipelagic nation facing distinct challenges—from **typhoon modeling** and **maritime logistics** to **public health** and **local spatial analysis**. 
-
-**PinasR: Philippine Software Registry** is a community-driven repository hosted on [R-Universe](https://phl-r.r-universe.dev/builds). Our mission is to consolidate, build, and distribute R packages developed by Filipino scientists,researchers, and developers ensuring that local data is translated into actionable insights for the country.
-
----
+**PinasR: Philippine Software Registry** is a community-driven repository hosted on [R-Universe](https://phl-r.r-universe.dev/builds). Our mission is to consolidate, build, and distribute R packages developed by Filipino scientists,researchers, and developers, ensuring that local data and specialized packages are translated into actionable insights for the country.
 
 ## 🏛️ Our Mission
 To empower the Filipino scientific community by providing a centralized, localized home for R software. We bridge the gap between researchers and developers to foster a culture of reproducible and accessible science in the Philippines.
@@ -21,9 +10,7 @@ To empower the Filipino scientific community by providing a centralized, localiz
 *   **🌀 Resilience:** Promoting computational tools tailored specifically to our unique geographic and socioeconomic landscape.
 *   **🤝 Collaboration:** Connecting Pinoy R users to share knowledge and build better tools together.
 
----
 ## ⚒️ Setup
-
 You can add the entire Philippine R ecosystem to your session with one line of code:
 
 ```r
