@@ -35,7 +35,7 @@ options(repos = c(
   CRAN = "https://r-project.org"
 ))
 
-# Then install as usual
+# Then install as usual, for example:
 install.packages("roroph")
 ```
 ## 🤝 Sali Na! (How to Contribute)
