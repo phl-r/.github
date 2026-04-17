@@ -1,11 +1,10 @@
 # Mabuhay!👋
 
 <div align="center">
-  <img src=".github/assets/phlogo.png" width="120" />
+  <img src="https://raw.githubusercontent.com/phl-r/.github/main/assets/phlogo.png" width="120" />
   <h1>Pinoy R Registry</h1>
   <p><i>The Central Infrastructure for Philippine R Software</i></p>
 </div>
-
 ---
 
 ### The Decentralized Software Registry for the Philippine R Ecosystem
