@@ -64,9 +64,9 @@ universe::add("phl-r")
 
 Are you a Filipino R developer? If you have a package on GitHub or CRAN that serves the Philippine context or was built by a Pinoy, we want to showcase your work!
 
-1. **Open an Issue:** Simply open an issue with your repository link.
+1. **Open an Issue:** Simply open an issue with your repository link OR;
 2. **Submit a PR:** If you're comfortable with JSON, submit a Pull Request to our packages.json file.
-3. **Spread the Word:** Use the hashtag #PHLR on social media to highlight Filipino-made packages.
+3. **Spread the Word:** Use the hashtag #PinasR on social media to highlight Filipino-made packages!
 
 ## 📝 About the Logo & Identity
 The PHL-R Registry logo is a derivative of the official R Project logo by the R Foundation, used under the CC-BY-SA 4.0 license. Our adaptation incorporates the Philippine Sun and Stars to represent our local community of practice.
