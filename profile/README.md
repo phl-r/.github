@@ -5,6 +5,7 @@
   <h1>Pinoy R Registry</h1>
   <p><i>The Central Infrastructure for Philippine R Software</i></p>
 </div>
+
 ---
 
 ### The Decentralized Software Registry for the Philippine R Ecosystem
