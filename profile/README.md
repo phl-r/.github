@@ -3,6 +3,7 @@
   <h1>PinasR</h1>
   <p><i>The Central Infrastructure for Philippine R Software</i></p>
 </div>
+
 ---
 
 ### 🌊 Why a Philippine Registry?
