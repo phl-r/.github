@@ -26,7 +26,7 @@ To empower the Filipino scientific community by providing a centralized, localiz
 ---
 ## 🤔 Why join and contribute to PinasR?
 
-** 👨🏻‍💻 For the developers:** We’ve built a centralized infrastructure to mirror Filipino-made R packages directly to R-Universe. Here’s why you should list your package here: 
+**👨🏻‍💻 For the developers:** We’ve built a centralized infrastructure to mirror Filipino-made R packages directly to R-Universe. Here’s why you should list your package here: 
 
 **Instant Compatibility Checks:** Every time you push code, our registry automatically triggers a build across Windows, macOS, and Linux. You get a real-time status on whether your package is cross-platform compatible without setting up complex CI/CD yourself.
 
@@ -36,7 +36,7 @@ To empower the Filipino scientific community by providing a centralized, localiz
 
 **Maintain Your Autonomy:** You keep 100% control. We don't host your code; we just index it. You continue to develop on your own repo, and our registry simply acts as a "signal booster."
 
-** 👩‍💻 For the Users:** Why should you use the phl-r registry instead of just installing from GitHub?
+**👩‍💻 For the Users:** Why should you use the phl-r registry instead of just installing from GitHub?
 
 **Reliability & Speed:** Installing from our registry is significantly faster than devtools::install_github() because the packages are pre-compiled.
 
