@@ -1,4 +1,4 @@
-# Mabuhay! 🇵🇭 👋🏾
+# Mabuhay! 👋🏾
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/phl-r/.github/main/assets/phflag.png" width="120" />
