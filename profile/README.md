@@ -1,7 +1,7 @@
 # Mabuhay! 🇵🇭 👋🏾
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/phl-r/.github/main/assets/phlogo.png" width="120" />
+  <img src="https://raw.githubusercontent.com/phl-r/.github/main/assets/phflag.png" width="120" />
   <h1>Philippine R Registry</h1>
   <p><i>The Central Infrastructure for Philippine R Software</i></p>
 </div>
