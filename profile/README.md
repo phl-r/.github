@@ -1,7 +1,7 @@
-Mabuhay!👋
+# Mabuhay!👋
 
 <div align="center">
-  <img src="assets/phlogo.png" width="120" />
+  <img src=".github/assets/phlogo.png" width="120" />
   <h1>Pinoy R Registry</h1>
   <p><i>The Central Infrastructure for Philippine R Software</i></p>
 </div>
