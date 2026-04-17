@@ -31,8 +31,8 @@ To install packages from this registry, add it to your R options. This allows yo
 ```r
 # Run this in your R console or add to your .Rprofile
 options(repos = c(
-  phlr = "https://r-universe.dev",
-  CRAN = "https://r-project.org"
+  phlr = "https://phl-r.r-universe.dev",
+  CRAN = "https://cloud.r-project.org"
 ))
 
 # Then install as usual, for example:
