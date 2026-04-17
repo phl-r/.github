@@ -2,12 +2,8 @@
 
 <div align="center">
   <img src="https://githubusercontent.com" width="160" />
-  <h1>Pinoy R Registry</h1>
+  <h1>Philippine R Registry</h1>
   <p><b>The Central Infrastructure for Philippine R Software</b></p>
-
-  [![R-Universe](https://r-universe.dev)](https://r-universe.dev)
-  ![Open Source](https://shields.io)
-  ![License](https://shields.io)
 </div>
 
 ---
