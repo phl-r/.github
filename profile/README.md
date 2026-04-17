@@ -1,4 +1,4 @@
-## Mabuhay!👋
+Mabuhay!👋
 
 <div align="center">
   <img src="assets/phlogo.png" width="120" />
