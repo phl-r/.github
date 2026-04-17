@@ -1,6 +1,6 @@
 ## Mabuhay! 🇵🇭 
 
-**PinasR: Philippine Software Registry** is a community-driven repository hosted on [R-Universe](https://phl-r.r-universe.dev/builds). Our mission is to consolidate, build, and distribute R packages developed by Filipino scientists,researchers, and developers, ensuring that local data and specialized packages are translated into actionable insights for the Filipino people. #ParaSaBayan
+**PinasR: Philippine Software Registry** is a community-driven repository hosted on [R-Universe](https://phl-r.r-universe.dev/builds). Our mission is to consolidate, build, and distribute R packages developed by Filipino scientists,researchers, and developers, ensuring that local data and specialized packages are translated into actionable insights for the Filipino people. #ParaSaBayan ✊💻
 
 ## 🏛️ Our Mission
 To empower the Filipino scientific community by providing a centralized, localized home for R software. We bridge the gap between researchers and developers to foster a culture of reproducible and accessible science in the Philippines.
