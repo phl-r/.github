@@ -35,6 +35,9 @@ Are you a Filipino R developer? 🇵🇭 If you have a package on GitHub or CRAN
 2. **Submit a PR:** If you're comfortable with JSON, submit a Pull Request to our packages.json file.
 3. **Spread the Word:** Use the hashtag #PinasR on social media to highlight Filipino-made packages!
 
+## 👨🏻‍🏫 Don't have the technical teeth?
+Don't let the technical requirements stop you! If you have R code that serves the Philippines, still reach out. We will provide technical mentorship to help you package your work and get it listed on PinasR in the future!
+
 ## 📝 About the Logo & Identity
 The PHL-R Registry logo is a derivative of the official R Project logo by the R Foundation, used under the CC-BY-SA 4.0 license. Our adaptation incorporates the Philippine Sun and Stars to represent our local community of practice.
 
