@@ -1,5 +1,5 @@
 
-# Kamusta? 📚
+# Kamusta? 📚🇵🇭
 **PinasR: Philippine Software Registry** is an independent, community-driven repository which aims to **consolidate, build, and distribute R packages developed by Filipino scientists,researchers, and developers**, ensuring that local data and specialized packages are translated into actionable insights for the Filipino people. Our current and updated registry is hosted in [R-Universe.](https://pinasr.r-universe.dev/builds) #ParaSaBayan ✊💻
 
 ## 🏛️ Our Mission
