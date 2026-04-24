@@ -16,7 +16,7 @@ You can add the entire Philippine R ecosystem to your session with one line of c
 ```r
 # Run this in your R console or add to your .Rprofile
 options(repos = c(
-  phlr = "https://phl-r.r-universe.dev",
+  phlr = "https://pinasr.r-universe.dev",
   CRAN = "https://cloud.r-project.org"
 ))
 
@@ -25,7 +25,7 @@ install.packages("roroph")
 
 # OR alternative: One-liner using the universe helper
 install.packages("universe", repos = "https://ropensci.r-universe.dev")
-universe::add("phl-r")
+universe::add("pinasr")
 ```
 ## 🤝 Sali Na! (How to Contribute)
 
@@ -34,9 +34,6 @@ Are you a Filipino R developer? 🇵🇭 If you have a package on GitHub or CRAN
 1. **Open an Issue:** Simply open an issue with your repository link OR;
 2. **Submit a PR:** If you're comfortable with JSON, submit a Pull Request to our packages.json file.
 3. **Spread the Word:** Use the hashtag #PinasR on social media to highlight Filipino-made packages!
-
-## 👨🏻‍🏫 Don't have the technical teeth?
-Don't let the technical requirements stop you! If you have R code that serves the Philippines, still reach out. We will provide technical mentorship to help you package your work and get it listed on PinasR in the future!
 
 ## 📝 About the Logo & Identity
 The PHL-R Registry logo is a derivative of the official R Project logo by the R Foundation, used under the CC-BY-SA 4.0 license. Our adaptation incorporates the Philippine Sun and Stars to represent our local community of practice.
